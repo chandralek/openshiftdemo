@@ -2,3 +2,5 @@
 
 tuesday
 wednesday
+thursday
+friday
