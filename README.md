@@ -1,3 +1,3 @@
 # openshiftdemo
 
-tuesday
+tuesday night
